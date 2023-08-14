@@ -1,0 +1,22 @@
+{
+  "name": "@instamenta/hexagot-user-proto-lib",
+  "version": "1.0.0",
+  "description": "user related protofile and corresponding generated code related to hexaledger project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "proto",
+    "grpc",
+    "protobuf",
+    "google-protobuf",
+    "generated",
+    "ts",
+    "typescript",
+    "js",
+    "javascript"
+  ],
+  "author": "instamenta",
+  "license": "MIT"
+}
